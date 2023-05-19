@@ -1,6 +1,7 @@
 # Thesis Repository
 
-This repository contains all publishable dependencies for a Bachelors thesis with the title: "Interpretability in NLP - A comparative analysis of two post-hoc interpretability methods on the *Faitfulness* metric."  
+This repository contains all publishable dependencies for a Bachelors thesis with the title: 
+##### "Interpretability in NLP - A comparative analysis of two post-hoc interpretability methods on the *Faitfulness* metric."  
 Author: Raziye Sari  
 Last updated: May 19th 2023  
 
@@ -22,5 +23,4 @@ Last updated: May 19th 2023
 * Code
   * [Training and testing BERT](BertSeqCardio.py)
   * [Test Results](BertSeqCA.txt)
-* Additional Stuff
-  * [Bash script](BertSeqCA.sh)
+  * [Bash script for running code on SLURM](BertSeqCA.sh)
