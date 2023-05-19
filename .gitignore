@@ -1,3 +1,8 @@
 .ipynb_checkpoints/
 Untitled.ipynb
 venv/
+data.p
+ig.p
+shap.p
+eva_shap.p
+eva_ig.p
