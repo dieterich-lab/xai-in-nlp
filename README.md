@@ -14,7 +14,7 @@ This repository contains all publishable dependencies from Dieterich Lab Heidelb
   * [Test Results as plain text](BertSeqCA.txt)
   * [Bash script for running GPU intensive job on Dieterich Lab SLURM cluster](BertSeqCA.sh)
 
-To run the _Faithfulness_ notebooks, please beforehand contact [the author](mailto:sari@cl.uni-heidelberg.de) to obtain the necessary confidential data. You may then proceed as follows:
+To run the _Faithfulness_ notebooks, please beforehand contact [the author](mailto:sari@cl.uni-heidelberg.de) to obtain the necessary confidential data. After cloning and changing directory to the repository, you may then proceed as follows:
 
 #### 🧰 Prerequisites
 1. Create and activate a Python virtual environment: `python3 -m venv xai`
@@ -22,8 +22,9 @@ To run the _Faithfulness_ notebooks, please beforehand contact [the author](mail
 3. Create the according IPython kernel for Jupyter: `python3 -m ipykernel install --user --name=xai`
 
 #### ⚙️ Run Faithfulness Notebooks
-1. Open Jupyter Notebook: `jupyter notebook` and select the created kernel _xai_
-2. Both Comprehensiveness & Sufficiency notebooks can be executed
+1. Save the obtained confidential pickle data in the repository folder structure
+2. Open Jupyter Notebook: `jupyter notebook` and select the created kernel _xai_
+3. Both Comprehensiveness & Sufficiency notebooks can be executed
 
 #### ✏️ Maintenance
 Author: Raziye Sari - sari@cl.uni-heidelberg.de  
