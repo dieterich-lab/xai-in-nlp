@@ -14,7 +14,7 @@ This repository contains all publishable dependencies from Dieterich Lab Heidelb
   * [Test Results as plain text](BertSeqCA.txt)
   * [Bash script for running GPU intensive job on Dieterich Lab SLURM cluster](BertSeqCA.sh)
 
-To run the _Faithfulness_ notebooks, please beforehand contact [the author](#maintenance) to obtain the necessary confidential data. You may then proceed as follows:
+To run the _Faithfulness_ notebooks, please beforehand contact [the author](mailto:sari@cl.uni-heidelberg.de) to obtain the necessary confidential data. You may then proceed as follows:
 
 #### 🧰 Prerequisites
 1. Create and activate a Python virtual environment: `python3 -m venv xai`
