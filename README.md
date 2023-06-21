@@ -4,6 +4,7 @@ This repository contains all publishable dependencies from Dieterich Lab Heidelb
 #### "A comparative analysis of two interpretability methods on medical text in light of the faithfulness metric"
 
 #### 🔍 Contents
+* [Thesis](thesis.pdf)
 * [Thesis presentation at Dieterich Lab](BA_thesis_present_Dieterichlab.pdf)
 * Notebooks
   * [Faithfulness - Sufficiency](ferret-Suff.ipynb)  
