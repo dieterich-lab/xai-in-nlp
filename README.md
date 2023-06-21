@@ -1,7 +1,7 @@
 # Bachelor's Thesis Dependencies
 
 This repository contains all publishable dependencies from Dieterich Lab Heidelberg for a Bachelor's thesis in Computational Linguistics (B.A. - 2023) at Heidelberg University with the title: 
-#### "Interpretability in NLP - A comparative analysis of two post-hoc interpretability methods on the Faitfulness metric"  
+#### "A comparative analysis of two interpretability methods on medical text in light of the faithfulness metric"
 
 #### 🔍 Contents
 * [Thesis presentation at Dieterich Lab](BA_thesis_present_Dieterichlab.pdf)
