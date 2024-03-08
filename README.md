@@ -1,16 +1,15 @@
-# Bachelor's Thesis Dependencies
+# Bachelor's Thesis in Explainable AI
 
-This repository contains all publishable dependencies from Dieterich Lab Heidelberg for a Bachelor's thesis in Computational Linguistics (B.A. - 2023) at Heidelberg University with the title: 
-#### "A comparative analysis of two interpretability methods on medical text in light of the faithfulness metric"
+This repository contains all publishable dependencies from Dieterich Lab Heidelberg for the Bachelor's thesis in Computational Linguistics (B.A., 2023) at Heidelberg University with the title: 
+### <h3 style=text-align:center;> Interpretability in NLP <br></h3> <h4 style=text-align:center;>A comparative analysis of two interpretability methods on medical text in light of the faithfulness metric"</h4> 
 
 #### 🔍 Contents
-* [Thesis](thesis.pdf)
 * [Thesis presentation at Dieterich Lab](BA_thesis_present_Dieterichlab.pdf)
 * Notebooks
   * [Faithfulness - Sufficiency](ferret-Suff.ipynb)  
   * [Faithfulness - Comprehensiveness](ferret-Comp.ipynb)  
   * [Training Data Statistics](DataStatistics.ipynb)  
-* Additions
+* Supplementary materials
   * [Python code for training and testing BERT model](BertSeqCardio.py)
   * [Test Results as plain text](BertSeqCA.txt)
   * [Bash script for running GPU intensive job on Dieterich Lab SLURM cluster](BertSeqCA.sh)
