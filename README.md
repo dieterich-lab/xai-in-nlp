@@ -1,6 +1,6 @@
 # Bachelor's Thesis in Explainable AI
 
-This repository contains all publishable dependencies from Dieterich Lab Heidelberg for the Bachelor's thesis in Computational Linguistics (B.A., 2023) at Heidelberg University with the title: 
+This repository comprises all dependencies of Dieterich Lab Heidelberg for the Bachelor's thesis in Computational Linguistics (B.A., 2023) at Heidelberg University, titled: 
 <h3 style=text-align:center;> "Interpretability in NLP <br></h3> <h4 style=text-align:center;>A comparative analysis of two interpretability methods on medical text in light of the faithfulness metric"</h4> 
 
 #### 🔍 Contents
